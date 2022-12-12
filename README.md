@@ -39,13 +39,6 @@ Create an App id using your developer account.
 
 Run the app on a physical device.
 
-## Meta
-Andrew Johnson – ajohnson388@gmail.com
-
-Distributed under the Apache 2.0 license. See ``LICENSE`` for more information.
-
-[https://github.com/ajohnson388/](https://github.com/ajohnson388/)
-
 [swift-image]:https://img.shields.io/badge/Swift-4.2-orange.svg
 [swift-url]: https://swift.org/
 [test-coverage-image]:https://img.shields.io/badge/Coverage-80%25-orange.svg
